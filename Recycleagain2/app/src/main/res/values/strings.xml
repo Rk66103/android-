@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Recycle again2</string>
+
+    <string-array name="flowers_name">
+
+        <item>Rose</item>
+        <item>Lotus</item>
+        <item>ButterFly</item>
+        <item>Forest Ghost</item>
+        <item>Yellow MariGold</item>
+        <item>Jasmine</item>
+        <item>Night Blooming</item>
+</string-array>
+
+
+    <string-array name="desc">
+        <item>Rose is beautiful</item>
+        <item>Lotus is beautiful</item>
+        <item>ButterFly is beautiful</item>
+        <item>Forest Ghost is beautiful</item>
+        <item>Yellow MariGold is beautiful</item>
+        <item>Jasmine is beautiful</item>
+        <item>Night Blooming is beautiful</item>
+    </string-array>
+</resources>

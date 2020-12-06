@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string-array name="pet_name">
+
+        <item>cat</item>
+        <item>dog</item>
+        <item>rat</item>
+        <item>elephant</item>
+        <item>lion</item>
+        <item>tiger</item>
+        <item>lepard</item>
+        <item>giraff</item>
+        <item>elephant</item>
+        <item>lion</item>
+        <item>tiger</item>
+        <item>lepard</item>
+        <item>giraff</item>
+
+
+    </string-array>
+
+    <string-array name="dis_crip">
+
+        <item>cat is cute</item>
+        <item>Dog is very faithful</item>
+        <item>Elephant is very big</item>
+        <item>Lion is Beast</item>
+        <item>Tiger is bengali</item>
+        <item>elephant</item>
+        <item>lion</item>
+        <item>tiger</item>
+        <item>lepard</item>
+        <item>giraff</item>
+        <item>cat is cute</item>
+        <item>Dog is very faithful</item>
+        <item>Elephant is very big</item>
+
+
+
+    </string-array>
+
+</resources>
